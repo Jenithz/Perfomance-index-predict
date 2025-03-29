@@ -31,6 +31,6 @@ The model provides predictions on student performance based on the input feature
 Clone the repository and run the Jupyter Notebook or Python script for training and predictions.
 
 ---
-**Author:** [Your Name]  
-**Date:** [Submission Date]
+**Author:** [Jenish Luitel]  
+
 
